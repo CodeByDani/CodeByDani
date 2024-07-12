@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **DDD**
 
-- - 🦸🏻 I’m looking to collaborate on: .Net projects
+- 🦸🏻 I’m looking to collaborate on: .Net projects
   
 - 📫 How to reach me **danialabedini1380@gmail.com**
 
